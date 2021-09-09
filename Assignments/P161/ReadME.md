@@ -1,6 +1,6 @@
 ## UVa Online Judge Number: 161
 #### Name: Traffic Lights
-#### URL: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=97&mosmsg=Submission+received+with+ID+26756603
+#### URL: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=97
 #### UDebug: https://www.udebug.com/UVa/161
 #### Code-on-Replit: https://replit.com/@ByronDowling/PT2Traffic-Lights#input
 
