@@ -29,7 +29,7 @@ to guard all the junctions and streets. Set the value of m as ‘-1’ if it is 
 without fighting.
 
 ##### Sample Input
-2
+2\n
 4 2
 0 1
 2 3
