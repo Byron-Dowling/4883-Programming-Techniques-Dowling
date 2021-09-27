@@ -15,4 +15,6 @@ Assignments Folder and progress for UVA problems
 |   5   | 10194   | Football             |   C++    | In-Progress |
 |   6   | 10226   | Hardwood Species     |   C++    |   On Deck   |
 |   7   | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
+|   8   | 900     | Brick Walls          |   C++    |   On Deck   |
+
 
