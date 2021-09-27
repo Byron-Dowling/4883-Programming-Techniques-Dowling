@@ -1,7 +1,8 @@
-## Programming Techniques Assigned Problems
+# Programming Techniques 
+## Assigned Problems
 ### Byron Dowling
 ### Description:
-Assignments Folder and progress for UVa problems
+Assignments Folder and progress for UVA problems
 
 ### Projects
 
