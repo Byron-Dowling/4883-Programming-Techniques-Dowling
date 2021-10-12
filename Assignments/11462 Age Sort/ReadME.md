@@ -15,12 +15,12 @@ For each case, print a line with n space separated integers. These integers are 
 *Warning*: Input Data is pretty big (Around 25 MB) so use faster IO
 
 ##### Sample Input
-  5
-  3 4 2 1 5
-  5
-  2 3 2 3 1
-  0
+  5\
+  3 4 2 1 5\
+  5\
+  2 3 2 3 1\
+  0\
 
 ##### Sample Output
-  1 2 3 4 5
-  1 2 2 3 3
+  1 2 3 4 5\
+  1 2 2 3 3\
