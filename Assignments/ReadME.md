@@ -12,9 +12,9 @@ Assignments Folder and progress for UVA problems
 |   2   | 11080   | Placing the Guards   |   C++    |  Complete   |
 |   3   | 10055   | Hashmat the Brave    |   C++    |  Complete   |
 |   4   | 161     | Traffic Lights       |   C++    |  Complete   |
-|   5   | 10194   | Football             |   C++    | In-Progress |
-|   6   | 10226   | Hardwood Species     |   C++    |   On Deck   |
-|   7   | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
-|   8   | 900     | Brick Walls          |   C++    |   On Deck   |
+|   5   | 900     | Brick Walls          |   C++    |  Complete   |
+|   6   | 10194   | Football             |   C++    | In-Progress |
+|   7   | 10226   | Hardwood Species     |   C++    |   On Deck   |
+|   8   | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
 
 
