@@ -13,8 +13,8 @@ Assignments Folder and progress for UVA problems
 |       3       | 10055   | Hashmat the Brave    |   C++    |  Complete   |
 |       4       |  161    | Traffic Lights       |   C++    |  Complete   |
 |       5       |  900    | Brick Walls          |   C++    |  Complete   |
-|       6       | 10194   | Football             |   C++    | In-Progress |
-|       7       | 10226   | Hardwood Species     |   C++    |   On Deck   |
+|       6       | 10226   | Hardwood Species     |   C++    |  Complete   |
+|       7       | 10194   | Football             |   C++    | In-Progress |
 |       8       | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
 | Presentation  | 11462   | Age Sort             |   C++    |  Complete   |
 
