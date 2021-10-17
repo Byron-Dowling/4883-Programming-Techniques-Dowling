@@ -19,8 +19,8 @@ For each line of input, generate a line of output saying ‘Jolly’ or ‘Not j
 
 #### Sample Input
 4 1 4 2 3\
-5 1 4 2 -1 6\
+5 1 4 2 -1 6
 
 #### Sample Output
 Jolly\
-Not Jolly\
+Not Jolly
