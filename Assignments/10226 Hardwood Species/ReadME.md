@@ -14,58 +14,58 @@ The first line is the number of test cases, followed by a blank line. Each test 
 For each test case print the name of each species represented in the population, in alphabetical order, followed by the percentage of the population it represents, to 4 decimal places. Print a blank line between 2 consecutive test cases.
 
 ##### Sample Input
-1
-Red Alder
-Ash
-Aspen
-Basswood
-Ash
-Beech
-Yellow Birch
-Ash
-Cherry
-Cottonwood
-Ash
-Cypress
-Red Elm
-Gum
-Hackberry
-White Oak
-Hickory
-Pecan
-Hard Maple
-White Oak
-Soft Maple
-Red Oak
-Red Oak
-White Oak
-Poplan
-Sassafras
-Sycamore
-Black Walnut
-Willow
+1\
+Red Alder\
+Ash\
+Aspen\
+Basswood\
+Ash\
+Beech\
+Yellow Birch\
+Ash\
+Cherry\
+Cottonwood\
+Ash\
+Cypress\
+Red Elm\
+Gum\
+Hackberry\
+White Oak\
+Hickory\
+Pecan\
+Hard Maple\
+White Oak\
+Soft Maple\
+Red Oak\
+Red Oak\
+White Oak\
+Poplan\
+Sassafras\
+Sycamore\
+Black Walnut\
+Willow\
 
 ##### Sample Output
-Ash 13.7931
-Aspen 3.4483
-Basswood 3.4483
-Beech 3.4483
-Black Walnut 3.4483
-Cherry 3.4483
-Cottonwood 3.4483
-Cypress 3.4483
-Gum 3.4483
-Hackberry 3.4483
-Hard Maple 3.4483
-Hickory 3.4483
-Pecan 3.4483
-Poplan 3.4483
-Red Alder 3.4483
-Red Elm 3.4483
-Red Oak 6.8966
-Sassafras 3.4483
-Soft Maple 3.4483
-Sycamore 3.4483
-White Oak 10.3448
-Willow 3.4483
-Yellow Birch 3.4483
+Ash 13.7931\
+Aspen 3.4483\
+Basswood 3.4483\
+Beech 3.4483\
+Black Walnut 3.4483\
+Cherry 3.4483\
+Cottonwood 3.4483\
+Cypress 3.4483\
+Gum 3.4483\
+Hackberry 3.4483\
+Hard Maple 3.4483\
+Hickory 3.4483\
+Pecan 3.4483\
+Poplan 3.4483\
+Red Alder 3.4483\
+Red Elm 3.4483\
+Red Oak 6.8966\
+Sassafras 3.4483\
+Soft Maple 3.4483\
+Sycamore 3.4483\
+White Oak 10.3448\
+Willow 3.4483\
+Yellow Birch 3.4483\
