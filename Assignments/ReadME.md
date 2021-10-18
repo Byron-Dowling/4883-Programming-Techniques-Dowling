@@ -8,7 +8,7 @@ Assignments Folder and progress for UVA problems
 
 |       #       | UVA #   | Description          | Language | Progress    |
 | :-----------: | --------| -------------------  | -------- | ----------- |
-|       1       | 10038   | Jolly Jumpers        |   C++    |  Complete   |
+|       1       | 10038   | [Jolly Jumpers](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10038)        |   C++    |  Complete   |
 |       2       | 11080   | Placing the Guards   |   C++    |  Complete   |
 |       3       | 10055   | Hashmat the Brave    |   C++    |  Complete   |
 |       4       |  161    | Traffic Lights       |   C++    |  Complete   |
