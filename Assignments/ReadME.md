@@ -17,6 +17,8 @@ Assignments Folder and progress for UVA problems
 |       7       |  920    | [Sunny Mountains](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/920%20Sunny%20Mountains)      |   C++    |  Complete   |
 |       8       | 10194   | Football             |   C++    | In-Progress |
 |       9       | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
+|      10       | 108     | Maximum Sum          |   C++    |   On Deck   |
+|      11       | 1112    | Mice and Maze        |   C++    |   On Deck   |
 | Presentation  | 11462   | [Age Sort](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11462%20Age%20Sort)             |   C++    |  Complete   |
 
 
