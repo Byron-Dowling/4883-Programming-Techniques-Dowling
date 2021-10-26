@@ -28,6 +28,12 @@ struct Team
   int g_against;
   int Table_Points;
 
+    
+  /* 
+     Overloaded constructor that sets the team name and the LexiName
+     which is used to help sort alphabetically. 
+  */
+    
   Team(string t)
   {
     this->Name = t;
@@ -45,6 +51,13 @@ struct Team
 };
 
 
+/*
+    This function splits the getline strings by a passed in delimiter that
+    allows us to parse the string into the data we need to work on. I.E 
+    read the whole string of football results and parse out the two teams
+    and the scores for each team.
+*/
+
 vector<string> split(string s, string delimiter) 
 {
     size_t pos_start = 0, pos_end, delim_len = delimiter.length();
@@ -61,6 +74,12 @@ vector<string> split(string s, string delimiter)
     return res;
 }
 
+
+/*
+    Helper function used in tandem with the vector sort method
+    that will help us sort our data by the correct descending list
+    of scenarios and tie breaker scenarios.
+*/
 
 bool compare(const Team* LHS, const Team* RHS)
 {
@@ -94,6 +113,7 @@ bool compare(const Team* LHS, const Team* RHS)
 }
 
 
+// Printing the table
 void Print_Table(vector<Team*> T)
 {
   sort(T.begin(), T.end(), compare);
@@ -111,6 +131,13 @@ void Print_Table(vector<Team*> T)
 }
 
 
+/* 
+    Global Variables for ease of simplicity including:
+        - A Vector of Team/Object Pointers
+        - A Map of String/Team* pairs
+    
+*/
+
 vector<Team*> Table;
 map<string, Team*> Leaderboard;
 
@@ -126,6 +153,8 @@ int main()
 
   while(Size > 0)
   {
+      
+    // The strange & ridiculous next two if statements are necessary to avoid a presentation error
     if (loop == true)
     {
       cout << endl;
@@ -136,6 +165,13 @@ int main()
       loop = true;
     }
 
+      
+    /*
+        Clearing our map and vector for reuse when a new test case is tested.
+        Prior efforts had resulted in memory leaks, therefore the clear method
+        also explicitly defines deleting each object.
+    */
+      
     if (!Table.empty())
     {
       for (int i = 0; i < Table.size(); i++)
@@ -157,6 +193,13 @@ int main()
     cin >> Participants;
     cin.ignore();
     
+      
+    /*
+        Grabbing the number of teams and building our team pointers.
+        This also calls the struct user-defined constructor to set the name
+        and LexiName that is used to sort alphabetically.
+    */
+      
     while(Participants > 0)
     {
       getline(cin, temp_name, '\n');
@@ -171,6 +214,15 @@ int main()
 
     cin >> Num_Matches;
     cin.ignore();
+      
+    /*
+        Below, the match result is read using getline, then it is parsed out
+        to get Team A, Team B, and scores for both. After this is complete, 
+        we search our map and update the team stats accordingly based off the
+        result, 3 points for a win, 1 point for a draw, no points for a loss etc.
+       
+       Stoi from string stream is used to convert the string number into int values.
+    */
 
     while(Num_Matches--)
     {
