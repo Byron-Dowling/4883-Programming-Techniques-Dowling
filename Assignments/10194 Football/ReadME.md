@@ -19,15 +19,15 @@ The first line of input will be an integer N in a line alone (0 < N < 1000). The
 #### Output
 For each tournament, you must output the tournament name in a single line. In the next T lines you must output the standings, according to the rules above. Notice that should the tie-breaker be the lexographic order, it must be done case insenstive. The output format for each line is shown bellow: [a]) T eam_name [b]p, [c]g ([d]-[e]-[f]), [g]gd ([h]-[i])
 Where:
-- • [a] = team rank
-- • [b] = total points earned
-- • [c] = games played
-- • [d] = wins
-- • [e] = ties
-- • [f] = losses
-- • [g] = goal difference
-- • [h] = goals scored
-- • [i] = goals against
+- [a] = team rank
+- [b] = total points earned
+- [c] = games played
+- [d] = wins
+- [e] = ties
+- [f] = losses
+- [g] = goal difference
+- [h] = goals scored
+- [i] = goals against
 There must be a single blank space between fields and a single blank line between output sets. See the sample output for examples.
 
 #### Sample Input
