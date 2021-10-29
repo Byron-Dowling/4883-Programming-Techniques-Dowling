@@ -22,7 +22,7 @@ Assignments Folder and progress for UVA problems
 |  Easy Breezy  | 12250   | Language Detection   |   C++    |   Complete  |
 |  Easy Breezy  | 11547   | Automatic Answer     |   C++    |   Complete  |
 |  Easy Breezy  | 11764   | Jumping Mario        |   C++    |   Complete  |
-|  Easy Breezy  | 11854   | Egypt                |   C++    |   Complete  |
+|  Easy Breezy  | 11854   | [Egypt](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11854%20Egypt)                |   C++    |   Complete  |
 |  Easy Breezy  | 100     | [3n + 1 Problem](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/100%20The%203n%20%2B%201%20problem)       |   C++    |   Complete  |
 | Presentation  | 11462   | [Age Sort](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11462%20Age%20Sort)             |   C++    |  Complete   |
 
