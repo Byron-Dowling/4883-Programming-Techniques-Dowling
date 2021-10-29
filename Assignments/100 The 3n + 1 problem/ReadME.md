@@ -23,6 +23,7 @@ value. Despite the simplicity of the algorithm, it is unknown whether this conje
 been verified, however, for all integers n such that 0 < n < 1, 000, 000 (and, in fact, for many more
 numbers than this.)
 \
+\
 Given an input n, it is possible to determine the number of numbers printed before and including
 the 1 is printed. For a given n this is called the cycle-length of n. In the example above, the cycle
 length of 22 is 16.
