@@ -5,7 +5,7 @@
 #### Code-on-Replit: https://replit.com/@ByronDowling/100-3n1-Problem#main.cpp
 
 ##### Problem Description:
-Problems in Computer Science are often classified as belonging to a certain class of problems (e.g., NP, Unsolvable, Recursive). In this problem you will be analyzing a property of an algorithm whose classification is not known for all possible inputs.\
+Problems in Computer Science are often classified as belonging to a certain class of problems (e.g., NP, Unsolvable, Recursive). In this problem you will be analyzing a property of an algorithm whose classification is not known for all possible inputs.
 
 Consider the following algorithm:
 - 1. input n
