@@ -19,6 +19,7 @@ Assignments Folder and progress for UVA problems
 |       9       | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
 |      10       | 108     | Maximum Sum          |   C++    |   On Deck   |
 |      11       | 1112    | Mice and Maze        |   C++    |   On Deck   |
+|  Easy Breezy  | 100     | [3n + 1 Problem](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/100%20The%203n%20%2B%201%20problem)       |   C++    |   Complete  |
 | Presentation  | 11462   | [Age Sort](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11462%20Age%20Sort)             |   C++    |  Complete   |
 
 
