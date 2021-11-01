@@ -10,8 +10,8 @@ Assignments Folder and progress for UVA problems
 | :-----------: | --------| -------------------  | -------- | ----------- |
 |       1       | 10038   | [Jolly Jumpers](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10038%20Jolly%20Jumpers)        |   C++    |  Complete   |
 |       2       | 11080   | [Placing the Guards](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11080%20Placing%20the%20Guards)   |   C++    |  Complete   |
-|       3       | 10055   | [Hashmat the Brave](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/P10055)    |   C++    |  Complete   |
-|       4       |  161    | [Traffic Lights](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/P161)       |   C++    |  Complete   |
+|       3       | 10055   | [Hashmat the Brave](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10055%20Hashmat%20the%20Brave)    |   C++    |  Complete   |
+|       4       |  161    | [Traffic Lights](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/161%20Traffic%20Lights)       |   C++    |  Complete   |
 |       5       |  900    | [Brick Walls](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/900%20Brick%20Walls)          |   C++    |  Complete   |
 |       6       | 10226   | [Hardwood Species](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10226%20Hardwood%20Species)     |   C++    |  Complete   |
 |       7       |  920    | [Sunny Mountains](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/920%20Sunny%20Mountains)      |   C++    |  Complete   |
