@@ -2,6 +2,8 @@
     Name:   Byron Dowling
     Course: 4883 Programming Techniques
     Date:   9/08/2021
+    
+    Assignment: UVa #10038 Jolly Jumpers
 */
 
 #include <iostream>
