@@ -19,6 +19,7 @@ Assignments Folder and progress for UVA problems
 |       9       | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
 |      10       | 108     | Maximum Sum          |   C++    |   On Deck   |
 |      11       | 1112    | Mice and Maze        |   C++    |   On Deck   |
+|  Easy Breezy  | 272     | TeX Quotes           |  Python  |  Complete   |
 |  Easy Breezy  | 12250   | [Language Detection](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12250%20Language%20Detection)   |   C++    |   Complete  |
 |  Easy Breezy  | 11547   | [Automatic Answer](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11547%20Automatic%20Answer)     |   C++    |   Complete  |
 |  Easy Breezy  | 11764   | [Jumping Mario](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11764%20Jumping%20Mario)        |   C++    |   Complete  |
