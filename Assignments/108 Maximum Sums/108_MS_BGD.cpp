@@ -34,7 +34,12 @@ int main()
     }
 
 
-    // Reading in the values to populate the matrix
+    /* 
+        Reading in the values to populate the matrix while also implementing
+        the Kadanes Matrix as the values are read in. Borrowed this concept 
+        from another solution after I was originally stuck with some edge cases.
+    */
+    
     for (int i = 0; i < size; i++)
     {
         for (int j = 0; j < size; j++)
@@ -71,7 +76,8 @@ int main()
         i and j looping through the normal dimensions of the matrix while k and l are
         intialized to i and j respectively.
         
-        ***Not done commenting yet***
+        Keep track of the local maximum and evaluate at the end of each pass and then evaluate 
+        that value with the absolute maximum until the traversal is complete.
     */
 
     for(int i = 0; i < size; i++) 
@@ -82,24 +88,24 @@ int main()
             {
                 for(int l = j; l < size; l++) 
                 {
-                    int cur = Matrix[k][l];
+                    int local_max = Matrix[k][l];
 
                     if (i > 0)
                     {
-                        cur -= Matrix[i - 1][l];
+                        local_max -= Matrix[i - 1][l];
                     }
 
                     if (j > 0)
                     {
-                        cur -= Matrix[k][j - 1];
+                        local_max -= Matrix[k][j - 1];
                     }
 
                     if (i > 0 && j > 0)
                     {
-                        cur += Matrix[i - 1][j - 1];
+                        local_max += Matrix[i - 1][j - 1];
                     }
 
-                    abs_max_sum = max(abs_max_sum, cur);
+                    abs_max_sum = max(abs_max_sum, local_max);
                 }
             }
         }
