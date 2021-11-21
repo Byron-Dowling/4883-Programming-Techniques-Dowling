@@ -61,7 +61,7 @@ int main()
     
 
 
-   // Initiliazing to the total sum to start out
+   // Initiliazing to the absolute lowest value for this problem
    int abs_max_sum = -127000;
     
     /*
