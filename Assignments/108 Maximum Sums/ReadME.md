@@ -11,6 +11,7 @@ Given a 2-dimensional array of positive and negative integers, find the sub-rect
 \
 As an example, the maximal sub-rectangle of the array:\
 \
+|       9       | 10017   | Towers of Hanoi      |   C++    |   On Deck   |
 | 0 |-2 | -7 | 0 |
 | 9 | 2 | -6 | 2 |
 |-4 | 1 | -4 | 1 |
