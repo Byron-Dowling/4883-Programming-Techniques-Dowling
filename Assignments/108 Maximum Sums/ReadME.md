@@ -11,12 +11,10 @@ Given a 2-dimensional array of positive and negative integers, find the sub-rect
 \
 As an example, the maximal sub-rectangle of the array:\
 \
-
-|:-:|:-:|:--:|:-:|
-| 0 |-2 | -7 | 0 |
-| 9 | 2 | -6 | 2 |
-|-4 | 1 | -4 | 1 |
-|-1 | 8 |  0 |-2 |
+ 0 -2  -7  0 \
+ 9  2  -6  2 \
+-4  1  -4  1 \
+-1  8   0 -2 \
 \
 is in the lower-left-hand corner:
  9 2\
