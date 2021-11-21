@@ -20,22 +20,21 @@ int main()
     int size = 0;
     cin >> size;
     
+    // Vector of Vector INTS as a 2D Matrix
     vector<VectINT> Matrix;
 
     int temp; 
 
-    Matrix.resize(size);
-    vector<int> Kadanes(size, 0);
-
+    Matrix.resize(size);    // Resizing the Matrix in 1D space
 
     // Sizing 2D Matrix
     for (int i = 0; i < Matrix.size(); i++)
     {
-        Matrix[i].resize(size);
+        Matrix[i].resize(size);     // Resizing the Matrix in 2D space
     }
 
 
-    // Reading in the matrix and printing for visual aide
+    // Reading in the values to populate the matrix
     for (int i = 0; i < size; i++)
     {
         for (int j = 0; j < size; j++)
@@ -64,6 +63,16 @@ int main()
 
    // Initiliazing to the total sum to start out
    int abs_max_sum = -127000;
+    
+    /*
+        Not the most efficient way, Big O(n^4), was unable to fully implement Kadanes as 
+        some edge cases were working against my solution.
+        
+        i and j looping through the normal dimensions of the matrix while k and l are
+        intialized to i and j respectively.
+        
+        ***Not done commenting yet***
+    */
 
     for(int i = 0; i < size; i++) 
     {
