@@ -9,7 +9,8 @@ A problem that is simple to solve in one dimension is often much more difficult 
 \
 Given a 2-dimensional array of positive and negative integers, find the sub-rectangle with the largest sum. The sum of a rectangle is the sum of all the elements in that rectangle. In this problem the subrectangle with the largest sum is referred to as the maximal sub-rectangle. A sub-rectangle is any contiguous sub-array of size 1 x 1 or greater located within the whole array.
 \
-As an example, the maximal sub-rectangle of the array:
+As an example, the maximal sub-rectangle of the array:\
+\
  0 -2 -7  0\
  9  2 -6  2\
 -4  1 -4  1\
