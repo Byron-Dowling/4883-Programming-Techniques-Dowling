@@ -1,3 +1,6 @@
+### Description:
+Separate Folder dedicated to just the easy question that the main page links too. The problems are hyperlinked to their respective folders.
+
 |       #       | UVA #   | Description          | Language | Progress    |
 | :-----------: | --------| -------------------  | -------- | ----------- |
 |  Easy Breezy  | 12468   | [Zapping](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12468%20Zapping)              |   C++    |  Complete   |
