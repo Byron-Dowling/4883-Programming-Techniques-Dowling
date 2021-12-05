@@ -20,5 +20,5 @@ A more organized hierarchy of the assigned problems below:
 | A13    | Mice and Maze              |  1112          | In-progress  |
 | A14    | Easy Breezy                |  [9+](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/Easy%20Breezy)            |  Complete    |
 | A15    | Linear Sorting (Age Sort)  |  [11462](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11462%20Age%20Sort)         |  Complete    |
-| A16    | Sorting Experiment         |  N/A           |  Complete    |
+| A16    | [Sorting Experiment](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/Sorting%20Experiment)         |  N/A           |  Complete    |
 | A17    | Tree Summing               |  112           |  On-Deck     |
