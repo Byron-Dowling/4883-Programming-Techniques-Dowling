@@ -1,5 +1,5 @@
 ### Description:
-Separate Folder dedicated to just the easy question that the main page links too. The problems are hyperlinked to their respective folders.
+Separate Folder dedicated to just the easy questions that the main page links to. The problems are hyperlinked to their respective folders.
 
 |       #       | UVA #   | Description          | Language | Progress    |
 | :-----------: | --------| -------------------  | -------- | ----------- |
