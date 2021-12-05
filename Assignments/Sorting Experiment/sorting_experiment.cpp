@@ -23,9 +23,10 @@ struct sortCompare
     sortCompare() 
     {
         m = 1073741824;
-        // loadData("randonums.dat");
-        loadData("sortednums.dat");
+        loadData("randonums.dat");
+        // loadData("sortednums.dat");
         // loadData("reversesortednums.dat");
+        // loadData("semialtsortednums.dat");
         sortNames = {"countSort", "heapSort", "quickSort", "radixSort", "bubbleSort"};
     }
 
