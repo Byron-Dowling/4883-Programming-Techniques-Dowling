@@ -1,6 +1,6 @@
 ## UVa Online Judge Number: 10017
 #### Name: The Never Ending Toewrs of Hanoi
-#### URL: TBD
+#### URL: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=958
 #### UDebug: https://www.udebug.com/UVa/10017
 #### Code-on-Replit: https://replit.com/@ByronDowling/Towers-of-Hanoi#main.cpp
 
