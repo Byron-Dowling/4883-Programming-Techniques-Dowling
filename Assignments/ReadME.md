@@ -18,7 +18,8 @@ Assignments Folder and progress for UVA problems
 |       8       | 10194   | [Football](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10194%20Football)             |   C++    |  Complete   |
 |       9       | 10017   | [Towers of Hanoi](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10017%20Towers%20of%20Hanoi)      |   C++    |  Complete   |
 |      10       | 108     | [Maximum Sum](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/108%20Maximum%20Sums)          |   C++    |  Complete   |
-|      11       | 1112    | Mice and Maze        |   C++    |   On Deck   |
+|      11       | 1112    | Mice and Maze        |   C++    | In-Progress |
+|      12       | 112     | Tree Summing         |   C++    |   On Deck   |
 |  Easy Breezy  | 12468   | [Zapping](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12468%20Zapping)              |   C++    |  Complete   |
 |  Easy Breezy  | 10346   | [Peter's Smokes](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10346%20Peter's%20Smokes)       |   C++    |  Complete   |
 |  Easy Breezy  | 10071   | [High School Physics](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10071%20Back%20to%20High%20School%20Physics)  |  Python  |  Complete   |
@@ -29,5 +30,6 @@ Assignments Folder and progress for UVA problems
 |  Easy Breezy  | 11854   | [Egypt](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11854%20Egypt)                |   C++    |   Complete  |
 |  Easy Breezy  | 100     | [3n + 1 Problem](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/100%20The%203n%20%2B%201%20problem)       |   C++    |   Complete  |
 |    A15      | 11462   | [Age Sort](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11462%20Age%20Sort)             |   C++    |  Complete   |
+|      11       | 1112    | Mice and Maze        |   C++    |   On Deck   |
 
 
