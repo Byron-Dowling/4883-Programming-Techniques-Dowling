@@ -3,7 +3,7 @@
     Course:     4883 Programming Techniques
     Date:       12/6/2021
 
-    Assignment: 12578 10:6:2
+    Assignment: 10783 Odd Sum
 */
 
 
