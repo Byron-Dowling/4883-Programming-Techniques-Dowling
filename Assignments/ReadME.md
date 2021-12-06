@@ -20,6 +20,7 @@ Assignments Folder and progress for UVA problems
 |      10       | 108     | [Maximum Sum](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/108%20Maximum%20Sums)          |   C++    |  Complete   |
 |      11       | 1112    | Mice and Maze        |   C++    | In-Progress |
 |      12       | 112     | Tree Summing         |   C++    |   On Deck   |
+|  Easy Breezy  | 12289   | [One Two Three](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12289%20One-Two-Three)        |  Python  |  Complete   |
 |  Easy Breezy  | 10783   | [Odd Sum](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10783%20Odd%20Sum)              |   C++    |  Complete   |
 |  Easy Breezy  | 12578   | [10:6:2](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12578%2010:6:2)               |   C++    |  Complete   |
 |  Easy Breezy  | 12468   | [Zapping](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12468%20Zapping)              |   C++    |  Complete   |
