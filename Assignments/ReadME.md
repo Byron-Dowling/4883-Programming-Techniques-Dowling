@@ -22,6 +22,6 @@ Assignments Folder and progress for UVA problems
 |      12       | 112     | Tree Summing         |   C++    |   On Deck   |
 |      A14      | 10+     | [Easy Breezy](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/Easy%20Breezy)          |  Various | Complete    |
 |    A15      | 11462   | [Age Sort](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11462%20Age%20Sort)             |   C++    |  Complete   |
-|    A16      | N/A     | Sorting Experiment       |   C++    |   On Deck   |
+|    A16      | N/A     | [Sorting Experiment](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/Sorting%20Experiment)       |   C++    |  Complete |
 
 
