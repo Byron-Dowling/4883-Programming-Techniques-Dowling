@@ -1,6 +1,7 @@
 # Programming Techniques 
 ## Assigned Problems
 ### Byron Dowling
+### UVA Problems Solved: 28
 ### Description:
 Assignments Folder and progress for UVA problems
 
