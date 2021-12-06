@@ -42,7 +42,7 @@ Comparing speed of different sorting algorithms on varying data sets that are de
 
 |     Sort         | Data Type               |         Time          |
 | :-------------:  | ----------------------- | --------------------- |
-|   Counting Sort  | Semi - Sorted Numbers   | 238.8 Milliseconds    |
+|   Counting Sort  | Semi - Sorted Numbers   | 138.8 Milliseconds    |
 |   Heap Sort      | Semi - Sorted Numbers   | 4.98 Milliseconds     |
 |   Quick Sort     | Semi - Sorted Numbers   | 193.5 Milliseconds    |
 |   Radix Sort     | Semi - Sorted Numbers   | 1.99 Milliseconds     |
