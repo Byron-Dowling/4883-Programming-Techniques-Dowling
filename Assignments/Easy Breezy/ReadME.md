@@ -16,3 +16,4 @@ Separate Folder dedicated to just the easy questions that the main page links to
 |  Easy Breezy  | 10783   | [Odd Sum](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10783%20Odd%20Sum)          |   C++    |   Complete  |
 |  Easy Breezy  | 10783   | [One Two Three](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12289%20One-Two-Three)        |  Python    |   Complete  |
 |  Easy Breezy  | 12577   | [Hajj-e-Akbar](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12577%20Hajj-e-Akbar)        |  C++    |   Complete  |
+|  Easy Breezy  | 11172   | [Relational Operators](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11172%20Relational%20Operators)        |  C++    |   Complete  |
