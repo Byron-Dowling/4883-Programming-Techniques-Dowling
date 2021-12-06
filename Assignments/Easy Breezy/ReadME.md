@@ -12,3 +12,4 @@ Separate Folder dedicated to just the easy questions that the main page links to
 |  Easy Breezy  | 11764   | [Jumping Mario](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11764%20Jumping%20Mario)        |   C++    |   Complete  |
 |  Easy Breezy  | 11854   | [Egypt](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11854%20Egypt)                |   C++    |   Complete  |
 |  Easy Breezy  | 100     | [3n + 1 Problem](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/100%20The%203n%20%2B%201%20problem)       |   C++    |   Complete  |
+|  Easy Breezy  | 12578   | [10:6:2](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/12578%2010:6:2)              |   C++    |   Complete  |
