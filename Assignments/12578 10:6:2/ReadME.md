@@ -1,4 +1,4 @@
-## UVa Online Judge Number: 100
+## UVa Online Judge Number: 12578
 #### Name: 10:6:2
 #### URL: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4023
 #### UDebug: https://www.udebug.com/UVa/12578
