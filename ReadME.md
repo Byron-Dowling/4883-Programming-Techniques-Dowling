@@ -10,7 +10,7 @@ A more organized hierarchy of the assigned problems below:
 |   #    | Description                | Problem #'s    | Progress     |
 | :----: | -------------------------- | -------------- | ------------ |
 | [A04](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/A04)    | Hashmat                    |  [10055](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10055%20Hashmat%20the%20Brave)         |  Complete    |
-| A05    | Traffic Lights             |  [161](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/161%20Traffic%20Lights)           |  Complete    |
+| [A05](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/A05)    | Traffic Lights             |  [161](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/161%20Traffic%20Lights)           |  Complete    |
 | A06    | Jolly Jumpers              |  [10038](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10038%20Jolly%20Jumpers)         |  Complete    |
 | A07    | Place the Guards           |  [11080](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/11080%20Placing%20the%20Guards)         |  Complete    |
 | A08    | String Processing          |  [10194](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10194%20Football) [10226](https://github.com/Byron-Dowling/4883-Programming-Techniques-Dowling/tree/main/Assignments/10226%20Hardwood%20Species)   |  Complete    |
